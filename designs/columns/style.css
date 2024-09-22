@@ -1,0 +1,33 @@
+body {
+    margin: 4ch auto;
+    max-width: 80ch;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 0 2ch;
+    color: #333;
+}
+
+h1,h2,h3 {
+    margin: 1rem 0;
+}
+
+.block {
+    break-inside: avoid;
+    background-color: rgba(0, 0, 0, 0.05);
+    padding: 1rem;
+    margin-bottom: 1rem;
+    display: inline-block;
+    width: calc(100% - 2rem);
+    outline: rgba(0, 0, 0, 0.25) solid 1px;
+}
+
+.columns {
+    columns: 2;
+    column-gap: 1rem;
+}
+
+@media only screen and (max-width: 80ch) {
+    .columns {
+        columns: 1;
+    }
+}
