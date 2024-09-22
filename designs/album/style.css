@@ -1,0 +1,22 @@
+body {
+    margin: 2ch auto;
+    max-width: 60ch;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 0 2ch;
+    color: #333;
+}
+
+header {
+    transform: rotate(90deg);
+    transform-origin: left top;
+    margin-left: 4rem;
+    position: fixed;
+    text-wrap: nowrap;
+}
+
+main {
+    margin-left: 3rem;
+    padding: 2rem;
+    background-color: #f6f6f6;
+}
