@@ -13,4 +13,5 @@ The design is also responsive and works on mobile!
 - This theme is inspired from the thumbnail of [this video](https://www.youtube.com/watch?v=Y0KQNn3aL4Q).
 - Unfortunately, the rotated text alignment is hard-coded and not adaptive. At least it's fixed!
 - The gray box is not fixed (like the rotated text), which is another nitpick I have with the current design implementation.
+- Update: turns out `text-orientation` exists (.-.), which would have made the alignment a lot easier and actaully adaptive.
 
