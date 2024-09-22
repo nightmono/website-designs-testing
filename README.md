@@ -6,5 +6,6 @@ You can view a design by clicking on its name.
 
 # [Columns](designs/columns/README.md)
 
+![Preview](designs/columns/preview.png)
+
 A design that seperates content into their own blocks. These blocks are placed side by side in a 2 column layout.
-Just a list of HTML/CSS
