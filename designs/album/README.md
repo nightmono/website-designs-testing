@@ -1,4 +1,4 @@
-# Columns Layout
+# Album Design
 
 ![Preview](preview.png)
 
