@@ -6,3 +6,8 @@ body {
     padding: 0 2ch;
     color: #333;
 }
+
+img {
+    max-width: 100%;
+    outline: #333 solid 1px;
+}
