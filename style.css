@@ -1,11 +1,11 @@
 @import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/roboto-slab.min.css");
 
 body {
-    margin: 4ch auto;
-    max-width: 60ch;
+    margin: 0 auto;
+    max-width: 80ch;
     font-size: 16px;
     line-height: 1.5;
-    padding: 0 2ch;
+    padding: 2rem;
     color: #333;
     font-family: 'Roboto Slab', sans-serif;
 }
